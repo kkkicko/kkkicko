@@ -1,5 +1,5 @@
 # Hey, I'm Viktoria 👋
-A passionate HTML developer with a strong focus on crafting clean, efficient, and user-friendly web interfaces. I'm eager to contribute my skills to a dynamic team and create exceptional digital experiences.
+Highly motivated HTML developer with a strong focus on crafting clean, efficient, and user-friendly web interfaces. I'm eager to contribute my skills to a dynamic team and create exceptional digital experiences.
 
 
 
